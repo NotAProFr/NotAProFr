@@ -1,0 +1,2 @@
+-H! I'm not that good at developing but I'm learning. 
+-You know? It's not that easy as it seems.
