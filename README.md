@@ -1,2 +1,2 @@
--H! I'm not that good at developing but I'm learning. 
--You know? It's not as easy as it seems.
+Hello! 
+I'm just a nice dev!
